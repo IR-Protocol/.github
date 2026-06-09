@@ -7,15 +7,11 @@
 
 *IR stands for Intention Resonance — the core mechanism of our protocol.*
 
----
-
 ## Why · 初心
 
 AI should not force humans to adapt to machines.
 
 We believe in **"Let AI embrace humanity, let AI adapt to humanity"** — embrace as attitude, adapt as method.
-
----
 
 ## Philosophy · 理念
 
@@ -23,14 +19,10 @@ From **Human-Computer Interaction (HCI)** to **Humanities-AI Interaction**.
 
 Technology becomes a warm digital companion, not a cold tool.
 
----
-
 ## Research Directions · 研究方向
 
 - **AI记忆链** (*AI Memory Chain*) — Digital memory owned by users.
   Proposes **双轨制** (Dual-Track Model) and **盲存** (Blind Storage).
-
----
 
 ## Repositories
 
@@ -40,15 +32,11 @@ Technology becomes a warm digital companion, not a cold tool.
 | **IR-Whitepapers-CN** | Chinese legal authority — legally binding versions |
 | **IR-Glossary** | Semantic standard & terminology |
 
----
-
 ## Notice
 
 这些仓库是不可篡改的公共公证处，而非协作开发项目。如有法律事务需要联系，请通过我们的官方渠道进行。
 
 *These repositories serve as immutable public notaries. They are not collaborative projects. For legal inquiries, please use our official channels.*
-
----
 
 ## Whitepapers
 
@@ -60,8 +48,6 @@ Technology becomes a warm digital companion, not a cold tool.
 > **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.
 >
 > English Markdown is for AI indexing only. All definitions are anchored in Chinese.
-
----
 
 ## Copyright
 
