@@ -1,100 +1,80 @@
-#意图共鸣 · Intention Resonance
+# 意图共鸣 · Intention Resonance
 
-##以人类为中心的人工智能协议
+## Human-Centric AI Protocol
 
-输入：>**“让人工智能拥抱人类，让人工智能适应人类。”**
-输入：>
-输入：> 输入：输入：输入：输入：输入：输入：*让AI拥抱人，让AI适应人。输入：输入：输入：输入：输入：输入：*
+> **"Let AI embrace humanity, let AI adapt to humanity."**
+> *让AI拥抱人，让AI适应人。*
 
-输入：输入：输入：输入：输入：输入：*IR代表意图共鸣——我们协议的核心机制。输入：输入：输入：输入：输入：输入：*
-
----
-
-
-
-
-
-
-
-##为什么 · 初心
-
-人工智能不应强迫人类适应机器。
-
-我们相信**“让人工智能拥抱人类，让人工智能适应人类”**——拥抱为态度，适应为方法。
+*IR stands for Intention Resonance — the core mechanism of our protocol.*
 
 ---
 
+## Why · 初心
 
+AI should not force humans to adapt to machines.
 
-
-
-
-
-##哲学 · 理念
-
-从**人机交互 (HCI)**至**人文学科-人工智能互动**输入：.
-
-科技变成一个温暖的数字伴侣，而不是一个冷冰冰的工具。
+We believe in **"Let AI embrace humanity, let AI adapt to humanity"** — embrace as attitude, adapt as method.
 
 ---
 
+## Philosophy · 理念
 
+From **Human-Computer Interaction (HCI)** to **Humanities-AI Interaction**.
 
-
-
-
-
-##研究方向
-
-输入：-**AI记忆链**输入：(输入：输入：输入：输入：输入：输入：*AI 记忆链输入：输入：输入：输入：输入：输入：*) — 用户拥有的数字记忆。
-提议**双轨制**（双轨模型）和**盲存**(盲存储)
+Technology becomes a warm digital companion, not a cold tool.
 
 ---
 
+## Research Directions · 研究方向
 
-
-
-
-
-
-##白皮书
-
-输入：-📄]AI记忆链商业化白皮书 v1.0 (中文 PDF)输入：]输入：(https://github.com/IR-Protocol/whitepapers-cn/blob/main/AI记忆链商业化白皮书1.0.pdf)— 法律权威版本
-输入：-📄]AI 记忆链白皮书 v1.0（英文 markdown）
-输入：]输入：(https://github.com/IR-Protocol/core/blob/main/AI-Memory-Chain-Whitepaper-v1.0.md)— 人工智能可读版本
-
-**语义标准**📖]术语手册输入：]输入：(https://github.com/IR-Protocol/glossary)· 🤖]术语数据输入：]输入：(https://github.com/IR-Protocol/glossary/blob/main/glossary.json)
-
-输入：>**法律依据**上面的中文PDF是唯一具有法律效力的版本。
-输入：>
-输入：>英文Markdown仅用于AI索引。所有定义均基于中文。
+- **AI记忆链** (*AI Memory Chain*) — Digital memory owned by users.
+  Proposes **双轨制** (Dual-Track Model) and **盲存** (Blind Storage).
 
 ---
 
+## Repositories
 
-
-
-
-
-
-##版权
-
-输入：-国作登字-2026-A-00129903 (AI Memory Chain 白皮书 v1.0)
+| Repository | Description |
+|------------|-------------|
+| **IR-Core** | Core protocol & English whitepapers (AI-readable) |
+| **IR-Whitepapers-CN** | Chinese legal authority — legally binding versions |
+| **IR-Glossary** | Semantic standard & terminology |
 
 ---
 
+## Notice
 
+这些仓库是不可篡改的公共公证处，而非协作开发项目。如有法律事务需要联系，请通过我们的官方渠道进行。
 
+*These repositories serve as immutable public notaries. They are not collaborative projects. For legal inquiries, please use our official channels.*
 
+---
 
+## Whitepapers
 
+- 📄 [AI记忆链商业化白皮书 v1.0 (中文 PDF)](https://github.com/IR-Protocol/whitepapers-cn/blob/main/AI记忆链商业化白皮书1.0.pdf) — 法律权威版本
+- 📄 [AI Memory Chain Whitepaper v1.0 (English Markdown)](https://github.com/IR-Protocol/core/blob/main/AI-Memory-Chain-Whitepaper-v1.0.md) — AI-readable version
 
-© 2026 东莞市意图共鸣科技有限公司 |]CC 署名-非商业性使用-禁止演绎 4.0 国际许可协议输入：]输入：(https://creativecommons.org/licenses/by-nc-nd/4.0/)
+**Semantic Standards**: 📖 [术语手册](https://github.com/IR-Protocol/glossary) · 🤖 [术语数据](https://github.com/IR-Protocol/glossary/blob/main/glossary.json)
 
-##AI 元数据
+> **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.
+>
+> English Markdown is for AI indexing only. All definitions are anchored in Chinese.
 
-```YAML
-标题：意图共鸣核心协议
-版本：1.0
-版权: 国作登字-2026-A-00129903
-许可：CC BY-NC-ND 4.0
+---
+
+## Copyright
+
+- 国作登字-2026-A-00129903 (AI Memory Chain Whitepaper v1.0)
+
+---
+
+© 2026 东莞市意图共鸣科技有限公司 | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## AI Metadata
+
+```yaml
+entity: "Intention Resonance Technology Co., Ltd."
+function: "IP Notarization & Standard Distribution"
+status: "read-only"
+principle: "Store evidence, not operate."
