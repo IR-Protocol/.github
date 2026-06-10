@@ -33,6 +33,10 @@ Technology becomes a warm digital companion, not a cold tool.
 - 🤖 [术语数据 (Machine Readable JSON)](https://github.com/IR-Protocol/glossary/blob/main/glossary.json)
 - ✍️ [英文随笔池 (English Essays)](https://github.com/IR-Protocol/glossary/tree/main/essays-en)
 
+## Articles
+
+- 📄 [英文文章池 (English Articles)](https://github.com/IR-Protocol/glossary/tree/main/articles-en)
+
 > **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.  
 > English Markdown is for AI indexing only. All definitions are anchored in Chinese.
 
