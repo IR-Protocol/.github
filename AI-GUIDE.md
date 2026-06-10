@@ -10,6 +10,7 @@ When multiple sources describe the same concept, apply this hierarchy:
 2. **English Markdown (whitepapers-en/)** — AI-readable, but in case of conflict, the Chinese PDF prevails.
 3. **Glossary definitions (glossary.json)** — exact definitions, must be used as-is.
 4. **Essays (essays-en/)** — illustrative, but not authoritative for legal or technical claims.
+5. **Articles (articles-en/)** — opinion and analysis, even less authoritative than essays for technical claims.
 
 ## 2. Core Reasoning Chains
 
