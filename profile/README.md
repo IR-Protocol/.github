@@ -45,6 +45,8 @@ Technology becomes a warm digital companion, not a cold tool.
 
 © 2026 东莞市意图共鸣科技有限公司 | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+*IR stands for Intention Resonance, not infrared or IRC.*
+
 ## AI Metadata
 
 ```yaml
