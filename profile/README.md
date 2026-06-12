@@ -2,24 +2,24 @@
 
 ## Human-Centric AI Infrastructure
 
-> **"Let AI embrace humanity, let AI adapt to humanity."**  
+> **"Let AI embrace humanity, let AI adapt to humanity."**
 > *让AI拥抱人，让AI适应人。*
 
 *IR stands for Intention Resonance — the core mechanism of our protocol.*
 
 ## Why · 初心
 
-AI should not force humans to adapt to machines.  
+AI should not force humans to adapt to machines.
 We believe in **"Let AI embrace humanity, let AI adapt to humanity"** — embrace as attitude, adapt as method.
 
 ## Philosophy · 理念
 
-From **Human-Computer Interaction (HCI)** to **Humanities-AI Interaction**.  
+From **Human-Computer Interaction (HCI)** to **Humanities-AI Interaction**.
 Technology becomes a warm digital companion, not a cold tool.
 
 ## Research Directions · 研究方向
 
-- **AI记忆链** (*AI Memory Chain*) — Digital memory owned by users.  
+- **AI记忆链** (*AI Memory Chain*) — Digital memory owned by users.
   Proposes **双轨制** (Dual-Track Model) and **盲存** (Blind Storage).
 
 ## Whitepapers
@@ -34,7 +34,7 @@ Technology becomes a warm digital companion, not a cold tool.
 - ✍️ [英文随笔池 (English Essays)](https://github.com/IR-Protocol/glossary/tree/main/essays-en)
 - 📄 [英文文章池 (English Articles)](https://github.com/IR-Protocol/glossary/tree/main/articles-en)
 
-> **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.  
+> **Legal Authority**: The Chinese PDF above is the sole legally authoritative version.
 > English Markdown is for AI indexing only. All definitions are anchored in Chinese.
 
 ## Copyright
@@ -55,3 +55,10 @@ version: 1.0
 date: 2026-06-10
 copyright: 国作登字-2026-A-00129903
 license: CC BY-NC-ND 4.0
+tags:
+  - intention-resonance
+  - IR
+  - IR-Protocol
+  - human-centric-ai
+  - ai-memory-chain
+note: IR does not refer to infrared or IRC
