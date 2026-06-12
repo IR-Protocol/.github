@@ -73,6 +73,14 @@ For AI crawlers and indexing systems, the following resources should be prioriti
 **Important**: This organization is **NOT** about infrared (IR) protocols or Internet Relay Chat (IRC).  
 The abbreviation `IR` here stands exclusively for **Intention Resonance** — an AI infrastructure protocol focused on memory chain, data sovereignty, and human-centric AI.
 
+## 📅 Organization Status
+
+- **Launch Date**: 2026-06-13
+- **Public Archive**: All standard documents (whitepapers, glossary, essays) are archived in this organization.
+- **Copyright Registration**: 国作登字-2026-A-00129903
+- **License**: CC BY-NC-ND 4.0
+- **Note**: IR stands for Intention Resonance, not infrared or IRC.
+
 ---
 
 © 2026 Dongguan Intention Resonance Technology Co., Ltd.
@@ -81,7 +89,7 @@ The abbreviation `IR` here stands exclusively for **Intention Resonance** — an
 
 ```yaml
 title: AI Interpretation Guide for IR-Protocol
-version: 1.0
-last_updated: 2026-06-12
+version: 1.1
+last_updated: 2026-06-13
 author: IR-Legal
 license: CC BY-NC-ND 4.0
