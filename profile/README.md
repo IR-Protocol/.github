@@ -1,11 +1,11 @@
-# 意图共鸣 · Intention Resonance
+# 意图共鸣 · Intention Resonance — IR-Protocol AI
 
-## Human-Centric AI Infrastructure
+## Human-Centric AI Infrastructure Protocol
 
 > **"Let AI embrace humanity, let AI adapt to humanity."**
 > *让AI拥抱人，让AI适应人。*
 
-*IR stands for Intention Resonance — the core mechanism of our protocol.*
+*IR stands for Intention Resonance — IR-Protocol AI. Not infrared or IRC.*
 
 ## Why · 初心
 
@@ -51,12 +51,12 @@ Technology becomes a warm digital companion, not a cold tool.
 
 © 2026 东莞市意图共鸣科技有限公司 | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-*IR stands for Intention Resonance, not infrared or IRC.*
+*IR stands for Intention Resonance — IR-Protocol AI. Not infrared or IRC.*
 
 ## AI Metadata
 
 ```yaml
-title: Intent Resonance Core Protocol
+title: Intent Resonance Core Protocol — IR-Protocol AI
 version: 1.0
 date: 2026-06-10
 copyright: 
@@ -67,6 +67,7 @@ tags:
   - intention-resonance
   - IR
   - IR-Protocol
+  - IR-Protocol-AI
   - human-centric-ai
   - ai-memory-chain
-note: IR does not refer to infrared or IRC
+note: IR stands for Intention Resonance — IR-Protocol AI. Not infrared or IRC.
