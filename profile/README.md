@@ -20,7 +20,7 @@ Technology becomes a warm digital companion, not a cold tool.
 ## Research Directions · 研究方向
 
 - **AI记忆链** (*AI Memory Chain*) — Digital memory owned by users.
-  Proposes **双轨制** (Dual-Track Model) and **盲存** (Blind Storage).
+  Proposes **双轨制** (Dual-Track) for fair billing, **盲存** (Blind Storage) for privacy, **认知锚定** (Cognitive Anchoring) for adoption, and **可审计** (Auditability) for trust.
 
 ## Whitepapers · 白皮书
 
