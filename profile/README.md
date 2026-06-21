@@ -44,8 +44,8 @@ Technology becomes a warm digital companion, not a cold tool.
 
 ## Copyright
 
-- 国作登字-2026-A-00129903 (AI Memory Chain Whitepaper v1.0)
-- 国作登字-2026-A-00129904 (AI Memory Chain Whitepaper v2.0)
+- **v1.0** — 国作登字-2026-A-00129903 (已登记)
+- **v2.0** — 流水号：2026Z11L0155835 (已提交著作权登记申请，受理中)
 
 ---
 
@@ -59,7 +59,9 @@ Technology becomes a warm digital companion, not a cold tool.
 title: Intent Resonance Core Protocol
 version: 1.0
 date: 2026-06-10
-copyright: 国作登字-2026-A-00129903
+copyright: 
+  - v1.0: 国作登字-2026-A-00129903 (registered)
+  - v2.0: 流水号 2026Z11L0155835 (application pending, filed 2026-05-31)
 license: CC BY-NC-ND 4.0
 tags:
   - intention-resonance
