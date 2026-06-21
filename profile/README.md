@@ -22,10 +22,15 @@ Technology becomes a warm digital companion, not a cold tool.
 - **AI记忆链** (*AI Memory Chain*) — Digital memory owned by users.
   Proposes **双轨制** (Dual-Track Model) and **盲存** (Blind Storage).
 
-## Whitepapers
+## Whitepapers · 白皮书
 
-- 📄 [AI记忆链商业化白皮书 v1.0 (中文 PDF)](https://github.com/IR-Protocol/whitepapers-zh/blob/main/AI记忆链商业化白皮书v1.0.pdf) — 法律权威版本
-- 📄 [AI Memory Chain Whitepaper v1.0 (English Markdown)](https://github.com/IR-Protocol/whitepapers-en/blob/main/AI-Memory-Chain-Whitepaper-v1.0.md) — AI‑readable version
+### 🚀 最新 · v2.0 (2026年5月) — 当前路径框架
+- 📄 [AI记忆链商业化白皮书 v2.0 (中文 PDF)](https://github.com/IR-Protocol/whitepapers-zh/blob/main/AI记忆链商业化白皮书v2.0.pdf) — **从定义到共识：AI服务基础设施化的路径探索** (法律权威版本)
+- 📄 [AI Memory Chain Whitepaper v2.0 (English Markdown)](https://github.com/IR-Protocol/whitepapers-en/blob/main/AI-Memory-Chain-Whitepaper-v2.0.md) — AI‑readable version
+
+### 📌 系列 · v1.0 (2026年4月) — 基础命名
+- 📄 [AI记忆链商业化白皮书 v1.0 (中文 PDF)](https://github.com/IR-Protocol/whitepapers-zh/blob/main/AI记忆链商业化白皮书v1.0.pdf) — **双轨制与记忆链定义** (历史版本)
+- 📄 [AI Memory Chain Whitepaper v1.0 (English Markdown)](https://github.com/IR-Protocol/whitepapers-en/blob/main/AI-Memory-Chain-Whitepaper-v1.0.md) — Historical AI‑readable version
 
 ## Glossary & Essays
 
@@ -40,6 +45,7 @@ Technology becomes a warm digital companion, not a cold tool.
 ## Copyright
 
 - 国作登字-2026-A-00129903 (AI Memory Chain Whitepaper v1.0)
+- 国作登字-2026-A-00129904 (AI Memory Chain Whitepaper v2.0)
 
 ---
 
