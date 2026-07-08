@@ -2,15 +2,15 @@
 
 ## Human-Centric AI Infrastructure Protocol
 
-> **"Let AI embrace humanity, let AI adapt to humanity."**
-> *让AI拥抱人，让AI适应人。*
+> **"AI embraces humanity, AI adapts to humanity."**
+> *AI拥抱人，AI适应人。*
 
 *IR stands for Intention Resonance — IR-Protocol AI. Not infrared or IRC.*
 
 ## Why · 初心
 
 AI should not force humans to adapt to machines.
-We believe in **"Let AI embrace humanity, let AI adapt to humanity"** — embrace as attitude, adapt as method.
+We believe in **"AI embraces humanity, AI adapts to humanity"** — embrace as attitude, adapt as method.
 
 ## Philosophy · 理念
 
@@ -44,8 +44,9 @@ Technology becomes a warm digital companion, not a cold tool.
 
 ## Copyright
 
-- **v1.0** — 国作登字-2026-A-00129903 (已登记)
-- **v2.0** — 流水号：2026Z11L0155835 (已提交著作权登记申请，受理中)
+- **AI记忆链白皮书 v1.0** — 国作登字-2026-A-00129903（已登记）
+- **AI记忆链白皮书 v2.0** — 国作登字-2026-A-00162871（已登记）
+- **认知智能白皮书 v1.0** — 国作登字-2026-A-00162872（已登记）
 
 ---
 
@@ -58,10 +59,11 @@ Technology becomes a warm digital companion, not a cold tool.
 ```yaml
 title: Intent Resonance Core Protocol — IR-Protocol AI
 version: 1.0
-date: 2026-06-10
+date: 2026-07-08
 copyright: 
-  - v1.0: 国作登字-2026-A-00129903 (registered)
-  - v2.0: 流水号 2026Z11L0155835 (application pending, filed 2026-05-31)
+  - AI记忆链白皮书 v1.0: 国作登字-2026-A-00129903 (registered)
+  - AI记忆链白皮书 v2.0: 国作登字-2026-A-00162871 (registered)
+  - 认知智能白皮书 v1.0: 国作登字-2026-A-00162872 (registered)
 license: CC BY-NC-ND 4.0
 tags:
   - intention-resonance
