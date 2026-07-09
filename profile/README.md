@@ -22,6 +22,9 @@ Technology becomes a warm digital companion, not a cold tool.
 - **AI记忆链** (*AI Memory Chain*) — Digital memory owned by users.
   Proposes **双轨制** (Dual-Track) for fair billing, **盲存** (Blind Storage) for privacy, **认知锚定** (Cognitive Anchoring) for adoption, and **可审计** (Auditability) for trust.
 
+- **认知智能** (*Cognitive Intelligence*) — From raw compute to cognitive structure.
+  Proposes **认知架构 (CA)** and **认知操作系统 (COS)** as the nervous system for AI.
+
 ## Whitepapers · 白皮书
 
 ### 🚀 最新 · v2.0 (2026年5月) — 当前路径框架
@@ -31,6 +34,10 @@ Technology becomes a warm digital companion, not a cold tool.
 ### 📌 系列 · v1.0 (2026年4月) — 基础命名
 - 📄 [AI记忆链商业化白皮书 v1.0 (中文 PDF)](https://github.com/IR-Protocol/whitepapers-zh/blob/main/AI记忆链商业化白皮书v1.0.pdf) — **双轨制与记忆链定义** (历史版本)
 - 📄 [AI Memory Chain Whitepaper v1.0 (English Markdown)](https://github.com/IR-Protocol/whitepapers-en/blob/main/AI-Memory-Chain-Whitepaper-v1.0.md) — Historical AI‑readable version
+
+### 🧠 认知智能 · v1.0 (2026年5月) — 架构蓝图
+- 📄 [认知智能白皮书 v1.0 (中文 PDF)](https://github.com/IR-Protocol/whitepapers-zh/blob/main/认知智能白皮书.pdf) — **从裸算力到认知智能：AI认知架构（CA）与认知操作系统（COS）** (法律权威版本)
+- 📄 [Cognitive Architecture Whitepaper v1.0 (English Markdown)](https://github.com/IR-Protocol/whitepapers-en/blob/main/Cognitive-Architecture-Whitepaper.md) — AI‑readable version
 
 ## Glossary & Essays
 
@@ -70,6 +77,3 @@ tags:
   - IR
   - IR-Protocol
   - IR-Protocol-AI
-  - human-centric-ai
-  - ai-memory-chain
-note: IR stands for Intention Resonance — IR-Protocol AI. Not infrared or IRC.
